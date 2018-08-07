@@ -1,3 +1,2 @@
 # PruebasAutomtizacion
-Repositorio que agrupara pruebas automatizadas
-puebaaa
+Proyecto implementacion Selenium webDriver+Maven+Log4j+TestNG
